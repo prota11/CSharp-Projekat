@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zadatak1.Uredjaj">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAOAABoIAACggAAIAACABAAAQAAAAAAAAAIAAA=</HashCode>
+      <FileName>Uredjaj.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Zadatak1.DesktopRacunar">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAEAAAAAAgAAAAgAEAICAAAgAAAAAAAAAAYAAADAA=</HashCode>
+      <FileName>DesktopRacunar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Zadatak1.Konzola">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAABAAIAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Konzola.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Zadatak1.Laptop">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABAQAAAAAAgAAAAgIAAICAAAgAAAABAAAAAQAAABAA=</HashCode>
+      <FileName>Laptop.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Zadatak1.SingleBoardRacunar">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgAAACAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>SingleBoardRacunar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Zadatak1.Tablet">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEQAAAAAAgAAAAIIAAAAIAAAAAAABAAAgAAAAAAAA=</HashCode>
+      <FileName>Tablet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Zadatak1.Telefon">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEQAAAAAAgAAAAAIAAAAIAAAAAAIBAAAgAAEgAUCA=</HashCode>
+      <FileName>Telefon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Zadatak1.IUredjaj">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAKAABgIAACgAAAAAAAABAAAQAAAAAAAAAIAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zadatak1.IDesktopRacunar">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIAAADAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zadatak1.ILaptop">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAACAAAAAAAABAAAAAQAAABAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zadatak1.ITablet">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAIAAAAAIAAAAAAABAAAgAAAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zadatak1.IKonzola">
+    <Position X="8.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zadatak1.ISingleBoardRacunar">
+    <Position X="10.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Zadatak1.ITelefon">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAIAAAAAAIBAAAgAAEgAACA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

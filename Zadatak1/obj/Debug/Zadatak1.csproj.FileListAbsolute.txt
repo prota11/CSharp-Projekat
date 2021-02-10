@@ -1,0 +1,36 @@
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csprojAssemblyReference.cache
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.Form1.resources
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\CSharp\Kolikvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csprojAssemblyReference.cache
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.Form1.resources
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Newtonsoft.Json.dll
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Newtonsoft.Json.xml
+C:\CSharp\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CopyComplete
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csprojAssemblyReference.cache
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.Form1.resources
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CopyComplete
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\Filip\OneDrive\Radna površina\CV\Kolokvijum2\SolZadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
